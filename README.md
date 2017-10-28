@@ -1,5 +1,8 @@
 ## stemcl2tiff
-converts stemcl output to tiff files
+Converts stemcl output to tiff files. To generate a `.tiff` output of an 1024x1024 stemcl output with `.stemcl` file ending and two detectors:
+```
+stemcl2tiff 1024 1024 .stemcl 2
+```
 
 ## License
 Copyright 2017 Manuel Radek, Jan-Gerd Tenberge
